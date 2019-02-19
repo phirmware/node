@@ -1,0 +1,3 @@
+'\x1b[33m%s\x1b[0m' == yellow
+      34              == blue
+      32             == green
